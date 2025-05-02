@@ -25,7 +25,7 @@
 | **agent-builder-template** | Шаблон для розгортання AI-агентів за 10 хв |
 
 ## 📫 Контакти | Contact
-- **Email:** nikopol.konditer@gmail.com  
+- **Email:** ai.na.maksa@gmail.com  
 - **LinkedIn:** [linkedin.com/in/maksym-bystrov-2421a4118](https://www.linkedin.com/in/maksym-bystrov-2421a4118)  
 - **Telegram:** [@ai_na_maksa](https://t.me/ai_na_maksa)
 
